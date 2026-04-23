@@ -9,9 +9,7 @@ let response = await GET(Astro);
 const activities: TimeEntry[] = await response.json();
 
 const cardOrder = ["Work", "Play", "Study", "Exercise", "Social", "Self Care"];
-activities.sort(
-  (a, b) => cardOrder.indexOf(a.title) - cardOrder.indexOf(b.title),
-);
+activities.sort((a, b) => cardOrder.indexOf(a.title) - cardOrder.indexOf(b.title));
 ---
 
 <MainLayout

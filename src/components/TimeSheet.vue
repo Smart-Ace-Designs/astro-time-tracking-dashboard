@@ -32,20 +32,15 @@ const timeframe = ref<"daily" | "weekly" | "monthly">("weekly");
               <span class="text-base text-theme-pale-blue">Report for</span>
             </h1>
             <div>
-              <span
-                class="text-2xl font-light text-white lg:my-3 lg:inline-block lg:text-[2.5rem]"
+              <span class="text-2xl font-light text-white lg:my-3 lg:inline-block lg:text-[2.5rem]"
                 >Jeremy</span
               >
-              <span class="text-2xl font-light text-white lg:text-[2.5rem]">
-                Robson</span
-              >
+              <span class="text-2xl font-light text-white lg:text-[2.5rem]"> Robson</span>
             </div>
           </div>
         </div>
         <nav>
-          <ul
-            class="flex flex-row justify-between gap-y-3 px-8 py-6 lg:flex-col lg:py-8"
-          >
+          <ul class="flex flex-row justify-between gap-y-3 px-8 py-6 lg:flex-col lg:py-8">
             <li
               id="daily"
               class="text-theme-pale-blue hover:cursor-pointer hover:text-white"
