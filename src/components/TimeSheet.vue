@@ -13,7 +13,7 @@ const timeframe = ref<"daily" | "weekly" | "monthly">("weekly");
 <template>
   <main class="lg:flex lg:min-h-screen lg:items-center lg:justify-center">
     <div
-      class="mx-auto grid gap-4 px-20 py-20 md:grid-cols-2 md:gap-7 md:px-32 lg:max-w-[1400px] lg:grid-cols-4 lg:px-36"
+      class="mx-auto grid gap-4 px-20 py-20 md:grid-cols-2 md:gap-7 md:px-32 lg:max-w-350 lg:grid-cols-4 lg:px-36"
     >
       <section
         class="min-w-64 rounded-2xl bg-theme-dark-blue md:col-span-2 md:row-span-1 md:min-w-0 lg:col-span-1 lg:row-span-2"
