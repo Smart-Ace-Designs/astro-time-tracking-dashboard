@@ -14,11 +14,11 @@
   "dependencies": {
     "@astrojs/netlify": "7.0.13",
     "@astrojs/vue": "6.0.1",
-    "@tailwindcss/vite": "^4.3.0",
-    "astro": "6.4.6",
+    "@tailwindcss/vite": "^4.3.1",
+    "astro": "6.4.8",
     "mongodb": "^7.3.0",
-    "tailwindcss": "^4.3.0",
-    "vue": "^3.5.35"
+    "tailwindcss": "^4.3.1",
+    "vue": "^3.5.38"
   },
   "devDependencies": {
     "prettier": "^3.8.4",
