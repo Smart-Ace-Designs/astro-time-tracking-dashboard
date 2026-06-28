@@ -21,7 +21,7 @@
     "vue": "^3.5.39"
   },
   "devDependencies": {
-    "prettier": "^3.8.4",
+    "prettier": "^3.8.5",
     "prettier-plugin-astro": "^0.14.1",
     "prettier-plugin-tailwindcss": "^0.8.0"
   }
