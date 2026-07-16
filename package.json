@@ -23,7 +23,7 @@
   "devDependencies": {
     "prettier": "^3.9.5",
     "prettier-plugin-astro": "^0.14.1",
-    "prettier-plugin-tailwindcss": "^0.8.0"
+    "prettier-plugin-tailwindcss": "^0.8.1"
   },
   "overrides": {
     "@opentelemetry/core": "^2.8.0",
