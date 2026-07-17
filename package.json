@@ -18,7 +18,7 @@
     "astro": "7.0.9",
     "mongodb": "^7.5.0",
     "tailwindcss": "^4.3.2",
-    "vue": "^3.5.39"
+    "vue": "^3.5.40"
   },
   "devDependencies": {
     "prettier": "^3.9.5",
