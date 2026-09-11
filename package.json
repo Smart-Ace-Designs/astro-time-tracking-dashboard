@@ -15,7 +15,7 @@
     "@astrojs/netlify": "8.2.5",
     "@astrojs/vue": "7.0.2",
     "@tailwindcss/vite": "^4.3.3",
-    "astro": "7.2.10",
+    "astro": "7.3.2",
     "mongodb": "^7.6.0",
     "tailwindcss": "^4.3.3",
     "vue": "^3.5.42"
